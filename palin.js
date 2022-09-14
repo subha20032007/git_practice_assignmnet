@@ -1,3 +1,4 @@
+
  
 let N= 10; let str="1234";
 {
@@ -12,3 +13,4 @@ let N= 10; let str="1234";
         console.log("No");
     }
 }
+
